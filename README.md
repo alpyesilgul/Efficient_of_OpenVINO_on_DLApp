@@ -9,3 +9,4 @@ Here is the results :
 
 Apart from OpenVINO optimization, which is especially used for computer vision, it brings many developers add-ons.
 
+I can't load model because its so big 😄 ( 220 MB and the optimized model is 207 MB )
